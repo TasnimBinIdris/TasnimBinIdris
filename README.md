@@ -50,7 +50,7 @@
 <br />
 
 ---
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TasnimBinIdris)](https://github.com/TasnimBinIdris/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TasnimBinIdris&show_icons=true&theme=radical)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
