@@ -3,9 +3,9 @@
 
 ## I'm a 😍😍 React Lover 😍😍!!!
 
-🔭 I’m currently working with MERN!
+- 🔭 I’m currently working with MERN!
 - 👯 I’m looking to collaborate with TypeScript, Nuxt.js, Vue & angular
-🥅 I always like to learn new things and have experience with new stuff
+- 🥅 I always like to learn new things and have experience with new stuff
 
 
 ### Connect with me:
