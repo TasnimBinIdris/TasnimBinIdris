@@ -1,6 +1,13 @@
 
 ### Hi there, I'm a Sultana Tasnim Jahan, a Full Stack Web Developer!! 👋 
 
+## I'm a 😍😍 React Lover 😍😍!!!
+
+🔭 I’m currently working with MERN!
+- 👯 I’m looking to collaborate with TypeScript, Nuxt.js, Vue & angular
+🥅 I always like to learn new things and have experience with new stuff
+
+
 ### Connect with me:
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TasnimJ51157228?s=09)
